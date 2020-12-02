@@ -1,6 +1,6 @@
 class  MyPrg1{
  public static void main(String args[]){
-     int a = 100;
+     int a = 200;
      System.out.println("Hello World from a git Hub 1........ 0322 Jenkins Trigger");
      System.out.println("Hello World from a git Hub 1........"+a);
      System.out.println("Hello World from a git Hub 2");
